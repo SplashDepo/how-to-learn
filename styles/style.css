@@ -53,6 +53,7 @@
 
 .header__subtitel {
   width: 388px;
+  margin: 0;
   position: absolute;
   bottom: 39px;
   left: 64px;
@@ -145,6 +146,9 @@
   width: 60%;
   margin: 0 auto;
 }
+.digits__section-subtitel{
+  margin-top: 20px;
+}
 
 .digits__table{
   width: 1100px;
@@ -199,3 +203,50 @@
   font-weight: 400;
 }
 
+/* FEYNMAN+++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.feynman {
+  /* padding-top: 100px; */
+  position: relative;
+  height: 890px;
+  background-color: var(--bg-dark-m);
+  text-align: center;
+}
+
+.feynman__titel {
+  position: relative;
+  z-index: 10;
+  margin: 0 auto;
+  padding-top:100px ;
+  width: 648px;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: 600;
+}
+
+.feynman__subtitel {
+  position: relative;
+  z-index: 10;
+  margin: 70px 0 0;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.feynman__link {
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: 400;
+  transform: translateY(-50%);
+}
+
+.feynman__ilustration {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 867px;
+  height: 637px;
+}
