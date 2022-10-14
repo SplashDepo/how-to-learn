@@ -208,7 +208,7 @@
   text-align: center;
 }
 
-.feynman__titel {
+.feynman__title {
   position: relative;
   z-index: 10;
   margin: 0 auto;
@@ -219,7 +219,7 @@
   font-weight: 600;
 }
 
-.feynman__subtitel {
+.feynman__subtitle {
   position: relative;
   z-index: 10;
   margin: 70px 0 0;
