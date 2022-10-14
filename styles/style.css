@@ -124,9 +124,10 @@
 }
 
 .tow-columns__paragraph {
-  line-height: 24px;
+  line-height: 34px;
   font-size: 24px;
   font-weight: 400;
+  margin: 0;
 }
 
 .tow-columns__paragraph:not(:last-child) {
