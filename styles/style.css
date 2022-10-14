@@ -45,7 +45,7 @@
 
 .header__titel {
   width: 730px;
-  margin: 0 0 0 64px ;
+  margin: 0 0 0 64px;
   position: relative;
   z-index: 10;
   line-height: 96px;
@@ -67,6 +67,7 @@
 
 .header__link {
   color: var(--blue);
+  text-decoration: none;
 }
 
 .header__main-ilustration {
@@ -210,7 +211,7 @@
   position: relative;
   z-index: 10;
   margin: 0 auto;
-  padding-top:100px ;
+  padding-top: 100px;
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
@@ -235,6 +236,7 @@
   font-weight: 400;
   transform: translateY(-50%);
   color: var(--blue);
+  text-decoration: none;
 }
 
 .feynman__ilustration {
@@ -331,6 +333,7 @@
   font-size: 18px;
   font-weight: 400;
   color: #fff;
+  text-decoration: none;
 }
 
 .footer__column-link:last-child{
