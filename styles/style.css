@@ -199,7 +199,7 @@
 
 /* FEYNMAN+++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 
-.feynman {
+/* .feynman {
   position: relative;
   min-height: 890px;
   background-color: var(--bg-dark-m);
@@ -240,7 +240,7 @@
   font-weight: 400;
   color: var(--blue);
   text-decoration: none;
-}
+} */
 
 
 /* KAUFMAN++++++++++++++++++++++++++++++++++++++++++++++++++ */
