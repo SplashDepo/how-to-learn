@@ -245,7 +245,7 @@
 
 /* KAUFMAN++++++++++++++++++++++++++++++++++++++++++++++++++ */
 
-.kaufman {
+/* .kaufman {
   padding: 90px 0;
   position: relative;
   display: flex;
@@ -281,12 +281,12 @@
   background-size: 887px 887px;
   width: 887px;
   height: 887px;
-}
+} */
 
 
 /* FOOTER++++++++++++++++++++++++++++++++++++++++++ */
 
-.footer{
+/* .footer{
   box-sizing: border-box;
   padding: 60px 0 40px;
   background-color: var(--bg-dark-l);
@@ -347,4 +347,4 @@
 
 .footer__social-icon {
   margin-right: 10px;
-}
+} */
