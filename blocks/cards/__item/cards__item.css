@@ -1,0 +1,4 @@
+.cards__item {
+  width: calc((920px - 200px) / 3);
+  text-align: center;
+}
