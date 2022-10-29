@@ -6,4 +6,5 @@
   background-size: 887px 887px;
   width: 887px;
   height: 887px;
+  animation: rotation 20s linear infinite;
 }
