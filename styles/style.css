@@ -348,16 +348,3 @@
 .footer__social-icon {
   margin-right: 10px;
 }
-.oakley {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  background-color: var(--bg-dark-m);
-}
-.two-columns {
-}
-
-.two-columns__main-text {
-}
-.two-columns__paragraph {
-}
