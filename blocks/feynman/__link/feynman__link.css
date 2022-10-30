@@ -7,9 +7,4 @@
   font-weight: 400;
   color: var(--blue);
   text-decoration: none;
-  transition: opacity .5s ease;
-}
-
-.feynman__link:hover {
-  opacity: .7;
 }
